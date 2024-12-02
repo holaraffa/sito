@@ -1,0 +1,43 @@
+{
+    "settings": {
+        "title": "Configuración",
+        "language": "Idioma"
+    },
+    "home": {
+        "business": {
+            "title": "Servicios",
+            "no_business_found": "No service found"
+        },
+        "events": {
+            "title": "Eventos",
+            "event": {
+                "title": "Eventos durante el día",
+                "no_event_found": "No se encontró ningún evento"
+            }
+        },
+        "news_and_tips": {
+            "title": "Noticias y consejos",
+            "useful_links": "enlaces útiles"
+        }
+    },
+    "activity": "Actividad",
+    "contact": {
+        "phone_number": "Teléfono",
+        "email": "Correo electrónico",
+        "website": "Sitio web",
+        "google_maps": "Abrir en Google Maps"
+    },
+    "location": {
+        "where": "Dónde"
+    },
+    "general": {
+        "name": "Nombre",
+        "filters": "Filtros",
+        "yes": "Sí",
+        "no": "No",
+        "all": "Todos",
+        "other": "Otros",
+        "no_internet_connection": "Sin conexión a Internet",
+        "check_connection": "Por favor, verifica tu conexión"
+    }
+}
